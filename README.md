@@ -1,10 +1,10 @@
 # planetearth
-Mini-projet en JEE : Création de site pour agence de voyage - Code Source
+JEE-Project: Website creation for a travel agency - Source Code
 ---------------
-Université Moulay Ismail, Faculté des sciences, Meknès
+University Moulay Ismail, Faculty of Sciences, Meknès
 
-Réalisé par : OUHAMMI Karim
+Realized by : Karim Ouhammi
 
-WebContent : Contient tous les fichiers JSP/HTML et CSS (Vue dans le modèle MVC).  
-src : Contient tous les packages et  les ressources Java (Les modèles et les contrôleurs, le "M" et le "C" du MVC).  
+WebContent : Contains all the JSP/HTML and CSS files (View in the model MVC)
+src : Contains all the packages and java ressources (Controllers and Models, the "M" and "C" in the model MVC)
 Rapport : https://drive.google.com/file/d/14s95VYWVa4ITRzg4oX-eBMXpWdOVp_fn/view?usp=sharing
