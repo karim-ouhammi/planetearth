@@ -1,5 +1,5 @@
 # planetearth
-JEE-Project: Website creation for a travel agency - Source Code
+JEE-Project: Website creation for a travel agency
 ---------------
 University Moulay Ismail, Faculty of Sciences, Meknès
 
