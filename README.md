@@ -1,12 +1,12 @@
 # planetearth
-JEE-Project: Website creation for a travel agency
+JEE-Project: Creation of a website for a travel agency
 ---------------
-University Moulay Ismail, Faculty of Sciences, Meknès
+University Moulay Ismail, Faculty of Sciences, Meknes, Morocco
 
-Realized by : Karim Ouhammi
+Designed and developed by: Karim Ouhammi
 
-WebContent : Contains all the JSP/HTML and CSS files (View in the model MVC)
+WebContent: Contains all JSP/HTML and CSS files (View).
 
-src : Contains all the packages and java ressources (Controllers and Models, the "M" and "C" in the model MVC)
+src: Contains all Java packages and resources (Models and controllers).
 
-Rapport : https://drive.google.com/file/d/14s95VYWVa4ITRzg4oX-eBMXpWdOVp_fn/view?usp=sharing
+Documentation (in French): https://drive.google.com/file/d/14s95VYWVa4ITRzg4oX-eBMXpWdOVp_fn/view?usp=sharing
